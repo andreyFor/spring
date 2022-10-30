@@ -28,7 +28,7 @@ public class ShopService {
 
 
         );
-    }
+    }//сделал
 
     public void add(List<Integer> ids) {
         basket.add(
