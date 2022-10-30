@@ -22,5 +22,5 @@ public class ShopController {
     public Collection<Item> get(@RequestParam("id") List<Integer> ids) {
         return shopService.get(ids);
     }
-
+//сделал
 }

@@ -43,4 +43,5 @@ public class ShopService {
     public Collection<Item> get(List<Integer> ids) {
         return basket.get();
     }
+    //сделал
 }
